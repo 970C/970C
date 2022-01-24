@@ -1,6 +1,8 @@
 ### Hi there 👋 
 
-I'm Jon!
+I'm Jon! A fun fact about me; I like to paint miniatures and other objects. I like to paint with Javascript too.
+
+[Check out some of the art I've made with ```<canvas>``` and JS.]( https://nineseventyc3d.github.io/javascript/art/canvas/2021/11/29/generative-art.html)
 
 <!--
 **970C/970C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

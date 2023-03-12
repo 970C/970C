@@ -1,6 +1,11 @@
-### Hi there 👋 
+# About Me
 
-I'm Jon! A fun fact about me; I like to paint miniatures and other objects. I like to paint with Javascript too.
+Greetings! My name is Jon and I do back-end web development in my current role.
+
+## What I most enjoy is
+building tools & automations, regex, data, optimization, and noodling with algorithmic artistic image generation with html canvas.
+
+
 
 <!--
 **970C/970C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -8,12 +8,12 @@ building tools & automations, regex, data, optimization, and noodling with algor
 ## What's my dev stack?
 
 ### The software tools I use
-IDE: VSCode (desktop), Textastic (iPad), Juno/Jupyter Notebook (ML, DS)
-FTP: FileZilla (desktop), Textastic (iPad)
-VCS: Git
-Repos: Bitbucket (work) / Github (personal)
-Webservers: primarily LAMP (work), LAMPe (home) 
-Terminal: Terminal
+- IDE: VSCode (desktop), Textastic (iPad), Juno/Jupyter Notebook (ML, DS)
+- FTP: FileZilla (desktop), Textastic (iPad)
+- VCS: Git
+- Repos: Bitbucket (work) / Github (personal)
+- Webservers: primarily LAMP (work), LAMPe (home) 
+- Terminal: Terminal
 
 ### Languages I am proficient with and actively using (daily/weekly use)
 

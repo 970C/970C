@@ -3,7 +3,7 @@
 Greetings! My name is Jon and I do back-end web development in my current role.
 
 ## What I most enjoy is
-building tools & automations, regex, data, optimization, and noodling with algorithmic artistic image generation with html canvas.
+building tools & automations, regex, data, optimization, ML & AI, and noodling with algorithmic artistic image generation with html canvas.
 
 ## What's my dev stack?
 
